@@ -1,6 +1,8 @@
 # Product and Traction
 
-Browser-use provides an open-source library and cloud infrastructure for web automation using Large Language Models (LLMs).
+Browser-use provides an open-source library and cloud infrastructure for web automation using Large Language Models (LLMs). [1](#ref-1)
+
+Return to [Overview](./OVERVIEW.md).
 
 ## Core Product Features
 
