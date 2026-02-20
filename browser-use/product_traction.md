@@ -2,8 +2,6 @@
 
 Browser-use provides an open-source library and cloud infrastructure for web automation using Large Language Models (LLMs). [1](#ref-1)
 
-Return to [Overview](./OVERVIEW.md).
-
 ## Core Product Features
 
 *   **Web Agents**: Enables users to extract data, automate tasks, perform QA testing, and monitor websites using natural language commands. [1](#ref-1)
@@ -22,6 +20,10 @@ Return to [Overview](./OVERVIEW.md).
 *   **Form Automation**: Automating multi-step processes like filling out loan applications. [1](#ref-1)
 *   **QA Testing & Monitoring**: Verifying website functionality and monitoring changes using natural language. [1](#ref-1)
 *   **Price Monitoring**: Creating endpoints for checking prices or data across various sites. [1](#ref-1)
+
+## Navigation
+*   [Overview](OVERVIEW.md)
+*   [Company Profile](company_profile.md)
 
 ### Citations
 
