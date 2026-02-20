@@ -3,9 +3,9 @@
 A summary of the browser-use company and product.
 
 ## Key Facts
-*   **Total Funding:** $17.5 million [[1]](#ref-1)
-*   **Recent Round:** $17 million Seed Round (March 2025) [[1]](#ref-1)
-*   **Lead Investor:** Felicis Ventures [[1]](#ref-1)
+*   **Total Funding:** $17.5 million [1](#ref-1)
+*   **Recent Round:** $17 million Seed Round (March 2025) [1](#ref-1)
+*   **Lead Investor:** Felicis Ventures [1](#ref-1)
 
 For more details, see the [Company Profile](company_profile.md).
 
