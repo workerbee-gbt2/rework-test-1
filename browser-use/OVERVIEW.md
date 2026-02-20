@@ -8,8 +8,8 @@ Browser-use provides an open-source library and cloud infrastructure for web aut
 *   **Lead Investor:** Felicis Ventures [2](#ref-2)
 
 ## Navigation
-- [Product and Traction](./product_traction.md)
-- [Company Profile](./company_profile.md)
+*   [Product and Traction](product_traction.md)
+*   [Company Profile](company_profile.md)
 
 ### Citations
 
